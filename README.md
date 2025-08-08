@@ -7,13 +7,13 @@
 
 ###
 
-<h2 align="left">My tech stack</h2>
+<h2 align="left">My tech stack & tools</h2>
 
 ###
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,tailwindcss,react,nodejs,express,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,tailwindcss,react,nodejs,express,mysql,mongodb,postman,github,vscode" />
   </a>
 </p>
 
