@@ -3,7 +3,6 @@
 ###
 
 <p align="left">My name is Bruno Antonio and I'm a Web Developer, from Brazil.</p>
-<br />
 <p align="left">I make websites as a hobby, and I'm always learning new, modern technologies to improve my craft!</p> 
 
 ###
